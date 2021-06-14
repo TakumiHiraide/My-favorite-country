@@ -8,6 +8,8 @@
 7.Japan
 8.Canada
 9.Switzerland
+10.Singapore
+
 
 
 
